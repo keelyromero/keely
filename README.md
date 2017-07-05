@@ -8,7 +8,7 @@
    padding: 10px;
    max-width: 300px; 
    height: 320px; 
-   border: 4px solid orange; 
+   border: 4px solid orange;
 }
 .category2 {
    float: left;
@@ -26,7 +26,7 @@
    border: 4px solid green;
 }
 .category4 {
-   float: right;
+   float: left;
    margin: 10px; 
    padding: 10px;
    height: 190px;
@@ -39,8 +39,8 @@
 
 <h1 style="background-color:red">Keely Romero</h2>
 <h2>About Me</h2>
-
 <div class="category1">
+
   <h2>Short Biography</h2>
   <p>High school senior at School Without Walls (class of 2018!) I live in Washington, D.C and hope to attend UW-Madison! </p>
   <img src="penguin.png" alt="Penguin Clip Art" 
@@ -64,6 +64,7 @@
   <p>When my sock falls down inside my shoe</p>
   <p>Swinging and missing</p>
   <p>Replying 3 hours later for time-sensitive information</p>
+</div>
   
 <div class="category4">
   <h2>Fun Fact</h2> 
@@ -71,3 +72,4 @@
   <img src="beeeeee.jpg" alt="Bee Clip Art" 
   style="width:150px;height:200px;">
 </div> 
+  
