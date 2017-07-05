@@ -29,7 +29,7 @@
    float: right;
    margin: 10px; 
    padding: 10px;
-   height: 310px;
+   height: 190px;
    border: 4px solid blue;
 }
    
@@ -64,10 +64,10 @@
   <p>When my sock falls down inside my shoe</p>
   <p>Swinging and missing</p>
   <p>Replying 3 hours later for time-sensitive information</p>
-  <img src="bubble.jpg" alt="Text Bubble"
-  style="float:right;width:200px;height:260px;">
   
 <div class="category4">
   <h2>Fun Fact</h2> 
   <p>I was a competitor in the DC Wide Spelling Bee and Science Fair in 4th and 5th Grade respectively</p>
-  
+  <img src="beeeeee.jpg" alt="Bee Clip Art" 
+  style="width:150px;height:200px;">
+</div> 
