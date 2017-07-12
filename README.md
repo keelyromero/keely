@@ -80,7 +80,7 @@
 </div> 
 
 <div class="category5"
-   <hz>Robotics Relfection<h2
+   <hz>Robotics Relfection<h2>
    <p>The work of Manuela Veloso and Ayanna Howard both involve technological innovation that make robots "smarter", which just inclides giving them better capabilities and further environmental awareness and ability of adaption.<p>
    <p>Our team did trial and error and asked for help from the TAs and internet in order to get the robot to work. We could have had better communication.<p>
    <p>Brightness, time, other stuff<p>
